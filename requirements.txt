@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+faster-whisper
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+crewai
+pydantic
